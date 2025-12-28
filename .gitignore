@@ -215,3 +215,6 @@ ckpts/
 
 # Ignore generated images
 /*.png
+
+# Copilot instructions
+.github/copilot-instructions.md
